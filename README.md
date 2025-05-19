@@ -2,11 +2,6 @@
 <h3 align="center">Desenvolvedor Full Stack • Apaixonado por tecnologia</h3>
 
 <p align="center">
-  Criando interfaces incríveis, arquiteturas escaláveis e soluções inteligentes.<br/>
-  Sempre com foco em performance, qualidade e experiência de usuário.
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack" alt="Typing animation" />
 </p>
 
