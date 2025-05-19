@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Jhonatan Santana</h1>
-<h3 align="center">Desenvolvedor Full Stack • Front-end UI Expert • Apaixonado por tecnologia</h3>
+<h3 align="center">Desenvolvedor Full Stack • Apaixonado por tecnologia</h3>
 
 <p align="center">
   Criando interfaces incríveis, arquiteturas escaláveis e soluções inteligentes.<br/>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Especialista+em+Angular+e+Next.js;UI+Clean+%2F+UX+Efetiva;C%C3%B3digo+moderno+e+eficiente" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Angular+e+Next.js;UI+Clean+%2F+UX+Efetiva;C%C3%B3digo+moderno+e+eficiente" alt="Typing animation" />
 </p>
 
 ---
