@@ -1,9 +1,9 @@
-<h1 align="center">Jhonatan Silva 👨‍💻</h1>
+<h1 align="center">Jhonatan Santana 👨‍💻</h1>
 
 <p align="center">🚀 Transformando ideias em experiências digitais memoráveis</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhonatansilva&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jhonatanSantana&color=blue" alt="profile views"/>
 </p>
 
 ---
@@ -39,18 +39,18 @@ Sou um desenvolvedor front-end e back-end apaixonado por tecnologia, performance
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatansilva&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatansilva&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatanSantana&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanSantana&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 📫 Onde me encontrar
 
-- LinkedIn: [linkedin.com/in/jhonatansilva](https://linkedin.com/in/jhonatansilva)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/jhonatan-santana0/)
 - Portfólio: [jhonatandev.com.br](https://jhonatandev.com.br)
-- Email: contato@jhonatandev.com.br
+- Email: jhonatan@jhonatandev.com.br
 
 ---
 
-<p align="center">Feito com 💙 por Jhonatan Silva</p>
+<p align="center">Feito com 💙 por Jhonatan Santana</p>
