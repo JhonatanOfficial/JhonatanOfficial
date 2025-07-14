@@ -37,6 +37,8 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
