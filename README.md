@@ -68,9 +68,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ## Links:
 <!--[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)-->
 <!--[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)-->
-<a href="https://www.linkedin.com/in/jhonatan-santana0/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-jhonatan--santana-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-487FCF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhonatan-santana0/)
 
 ## Contact:
 
