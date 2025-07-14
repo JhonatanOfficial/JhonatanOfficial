@@ -23,27 +23,27 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ## Technologies:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="Next.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="SCSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="C# logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="SQL Server logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
