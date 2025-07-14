@@ -37,9 +37,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="SQL Server logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
