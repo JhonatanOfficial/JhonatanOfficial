@@ -66,11 +66,11 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </div>
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
-[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
+<!--[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)-->
+<!--[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhonatan-santana0/)
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
+[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jhonatan@jhonatandev.com.br)
+
